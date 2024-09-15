@@ -1,6 +1,6 @@
-#Journey to the West closed game of me.
+# Journey to the West closed game of me.
 
-Diary: 
+** Diary: **
 
 Day 27/7/2024: Project started
 Day 27/8 -> 31/8: Drawed 2 enemies
